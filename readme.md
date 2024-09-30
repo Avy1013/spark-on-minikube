@@ -2,7 +2,11 @@
 
 This guide walks you through setting up Apache Spark on a Kubernetes cluster using Minikube and Helm.
 
-![Spark on Kubernetes](https://raw.githubusercontent.com/kubernetes/minikube/master/images/logo/logo.png)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://raw.githubusercontent.com/kubernetes/minikube/master/images/logo/logo.png" alt="Minikube Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes Logo" width="200"/>
+  <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark Logo" width="200"/>
+</div>
 
 ## Prerequisites
 
